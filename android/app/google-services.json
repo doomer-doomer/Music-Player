@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989361670872",
+    "project_id": "emoapp-4be99",
+    "storage_bucket": "emoapp-4be99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989361670872:android:837c2cc931c99e8db665ad",
+        "android_client_info": {
+          "package_name": "com.example.testz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-I7KMtNmm_HZKl090GkiUqkMXfQ8RbL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
