@@ -1,4 +1,5 @@
 # Music Player
+This Flutter-based music player offers a sleek and intuitive interface for managing and enjoying your music collection.
 
 ## Features: 
 - Search for millions of songs from Spotify's database
