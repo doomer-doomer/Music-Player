@@ -6,7 +6,7 @@
 - Control song management globally
 
 ## Demonstration:
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/doomer-doomer/Music-Player/assets/74721478/34d75b2c-970d-490d-88a8-e3280a916099" width="100" height="400" />
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/doomer-doomer/Music-Player/assets/74721478/34d75b2c-970d-490d-88a8-e3280a916099" width="200" height="400" />
 ![2](https://github.com/doomer-doomer/Music-Player/assets/74721478/b3567ed9-e27d-4112-aa62-e11deb4dc512)
 ![3](https://github.com/doomer-doomer/Music-Player/assets/74721478/82df139f-f30a-4fba-81e2-3e85eec3bf0b)
 ![4](https://github.com/doomer-doomer/Music-Player/assets/74721478/467c5984-6d71-4b90-9056-937844388c90)
