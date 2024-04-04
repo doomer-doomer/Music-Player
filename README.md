@@ -2,9 +2,9 @@
 This Flutter-based music player offers a sleek and intuitive interface for managing and enjoying your music collection.
 
 ## Features: 
-- Search for millions of songs from Spotify's database
-- Get any song audio from the YTExplode
-- Control song management globally
+- Search for millions of songs from Spotify's database.
+- Get any song audio from the YTExplode.
+- Control song management globally.
 
 ## Demonstration:
 <img src="https://github.com/doomer-doomer/Music-Player/assets/74721478/34d75b2c-970d-490d-88a8-e3280a916099" data-canonical-src="https://github.com/doomer-doomer/Music-Player/assets/74721478/34d75b2c-970d-490d-88a8-e3280a916099" width="200" height="400" />
